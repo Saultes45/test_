@@ -1,4 +1,4 @@
-# Hello, I am a markdown file
+# Hello, markdown file
 
 Hello, I am a change
 
